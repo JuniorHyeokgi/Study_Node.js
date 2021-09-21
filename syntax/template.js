@@ -1,4 +1,4 @@
-var name = 'asd123';
+var name = 'Hyeokgi';
 
 var letter = `Lorem ${name}
 
